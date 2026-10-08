@@ -1,17 +1,17 @@
-# [Titlul proiectului]
+# Analizor de log-uri
 
 Proiect individual la disciplina Metode avansate de programare, anul universitar 2026-2027.
 
 ## Autor
 
-- **Nume:** [Nume Prenume]
-- **Grupa:** [grupa]
-- **Marca:** [marca]
-- **Tema:** [numarul temei] - [titlul temei]
+- **Nume:** Vinka Emanuel
+- **Grupa:** 2.2
+- **Marca:** LH715743
+- **Tema:** 9 - Analizor de log-uri
 
 ## Descriere
 
-[Doua-trei propozitii despre ce face aplicatia si ce problema rezolva.]
+Colecteaza inregistrarile automate generate de anumite aplicatii.
 
 ## Tehnologii
 
